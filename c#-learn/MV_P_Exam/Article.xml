@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Articles>
+	<Article id="11">
+		<CategoryId>1</CategoryId>	
+		<Name>Samsung S4 Watcher</Name>
+		<Price>100</Price>
+	</Article>
+	<Article id="22">
+		<CategoryId>2</CategoryId>
+		<Name>Xiaomi Redmi Tablet</Name>
+		<Price>200</Price>
+	</Article>
+	<Article id="33">
+		<CategoryId>3</CategoryId>
+		<Name>Iphone X</Name>
+		<Price>300</Price>
+	</Article>
+	<Article id="44">
+		<CategoryId>4</CategoryId>
+		<Name>Dell Monitor</Name>
+		<Price>400</Price>
+	</Article>
+	<Article id="333">
+		<CategoryId>3</CategoryId>
+		<Name>Samsung Galaxy 5</Name>
+		<Price>330</Price>
+	</Article>
+	<Article id="444">
+		<CategoryId>4</CategoryId>
+		<Name>Apple Monitor</Name>
+		<Price>440</Price>
+	</Article>
+</Articles>

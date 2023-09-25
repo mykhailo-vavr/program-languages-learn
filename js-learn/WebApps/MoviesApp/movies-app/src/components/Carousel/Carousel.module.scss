@@ -1,0 +1,37 @@
+.carousel {
+  background: #ccc;
+  height: 200px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.gallery {
+  width: 9999px;
+  height: 100%;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.arrow {
+  cursor: pointer;
+  position: absolute;
+  border: 20px solid transparent;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 999;
+
+  &:active {
+    opacity: 0.5;
+  }
+
+  &-left {
+    border-right: 20px solid #fff;
+    left: -15px;
+  }
+
+  &-right {
+    border-left: 20px solid #fff;
+    right: -15px;
+  }
+}

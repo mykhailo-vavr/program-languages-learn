@@ -1,0 +1,6 @@
+﻿Shop2
+1 name6 600 6 genre6
+1 name7 700 7 genre7
+2 name8 800 8 genre8
+2 name9 900 9 genre9
+1 specialBook 999 99 specialGenre

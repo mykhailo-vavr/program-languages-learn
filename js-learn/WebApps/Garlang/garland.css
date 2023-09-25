@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: #181418;
+}
+
+.container {
+  width: 70vw;
+  height: 100vh;
+  margin: 0 auto;
+  position: relative;
+  /* overflow: hidden; */
+}
+
+.garland {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  padding-top: 8px;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 50px;
+}
+
+.garland-bulb {
+  height: 30px;
+  width: 30px;
+  border-radius: 100%;
+  animation: switch-light 0s ease-in 0s infinite;
+  position: relative;
+  margin-left: 25px;
+}
+
+.garland-bulb:first-child {
+  margin-left: 0;
+}
+
+.garland-bulb:last-child::after {
+  content: none;
+}
+
+.garland-bulb::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -80%);
+  width: 10px;
+  height: 10px;
+  background: #3c2e42c4;
+  border-radius: 2px;
+}
+
+.garland-bulb::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 56px;
+  height: 15px;
+  transform: translate(25%, -75%);
+  background: transparent;
+  border-radius: 100%;
+  border-bottom: 1.5px solid #3c2e42c7;
+}
+
+@keyframes switch-light {
+  0% {
+    box-shadow: 0 0 5px, 0 0 10px;
+  }
+  50% {
+    box-shadow: 0 0 25px, 0 0 30px;
+  }
+  100% {
+    box-shadow: 0 0 5px, 0 0 10px;
+  }
+}

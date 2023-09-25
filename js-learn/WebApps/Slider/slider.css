@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.container {
+  height: 100vh;
+  width: 100vw;
+}
+
+.slider {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+}
+
+.slider-header {
+  transition: 0.5s;
+  height: 100%;
+  width: 35%;
+}
+
+.slider-header-item {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  letter-spacing: 0.07em;
+  color: aliceblue;
+  text-align: center;
+  background: rgb(36, 187, 132);
+  /* background: linear-gradient(
+    36deg,
+    rgba(36, 187, 132, 1) 0%,
+    rgba(152, 139, 29, 1) 0%,
+    rgba(145, 141, 12, 1) 50%,
+    rgba(152, 173, 0, 1) 100%
+  ); */
+}
+
+.slider-header-item h2 {
+  margin-bottom: 10px;
+}
+
+.slider-gallery {
+  transition: 0.5s;
+  width: 65%;
+}
+
+.slider-gallery-item {
+  height: 100%;
+  /* background: url('https://images.unsplash.com/photo-1610568781018-995405522539?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80')
+    no-repeat center center / cover; */
+}
+
+/* .slider-gallery-item:nth-child(2) {
+  background: url('https://images.unsplash.com/photo-1594877502388-8d9e1dfcd84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80')
+    no-repeat center center / cover;
+}
+
+.slider-gallery-item:nth-child(3) {
+  background: url('https://images.unsplash.com/photo-1571757767119-68b8dbed8c97?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80')
+    no-repeat center center / cover;
+}
+
+.slider-gallery-item:nth-child(4) {
+  background: url('https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80')
+    no-repeat center center / cover;
+} */
+
+.btn {
+  border: none;
+  position: absolute;
+  top: 50%;
+  left: 35%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.3em;
+  font-weight: bold;
+  z-index: 10;
+  cursor: pointer;
+  color: rgb(119, 119, 106);
+}
+
+.btn:active {
+  opacity: 0.8;
+}
+
+.up-btn {
+  transform: translate(0, -100%);
+  border-radius: 0 5px 5px 0;
+}
+
+.down-btn {
+  transform: translate(-100%);
+  border-radius: 5px 0 0 5px;
+}

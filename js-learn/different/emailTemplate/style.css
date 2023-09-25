@@ -1,0 +1,227 @@
+* {
+  box-sizing: border-box;
+  color: #001a33;
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 16px;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  max-width: 640px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+header h1 {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 600;
+  color: #004c97;
+}
+
+header img {
+  height: 108px;
+}
+
+.container > div > img {
+  width: 100%;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+.content-box {
+  padding: 1.25rem 1.25rem 1.5rem 1.25rem;
+}
+
+.content-box div:not(:last-child) {
+  margin-bottom: 1rem;
+}
+
+.dear {
+  font-weight: 600;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.thanks {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+.ref {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+.num {
+  font-weight: 600;
+  color: #004c97;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.text {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+.numa {
+  font-weight: 600;
+  text-decoration: underline;
+  color: #004c97;
+}
+
+.small {
+  font-size: 0.75rem;
+  line-height: 1rem;
+  color: #b0b0b0;
+}
+
+footer {
+  border-top: 1px solid #d3d3d3;
+}
+
+.ftop {
+  padding: 1rem 1.25rem;
+}
+
+.conbox p:not(:last-child) {
+  margin-bottom: 0.75rem;
+}
+
+.conbox p {
+  display: flex;
+  align-items: center;
+}
+
+.decoration-dashed {
+  text-decoration: dashed;
+}
+
+.conbox a {
+  text-decoration: underline;
+  font-weight: 600;
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+
+a.dashed {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+}
+
+.conbox img {
+  width: 20px;
+  height: 20px;
+  margin-right: 0.5rem;
+}
+
+.soc-box {
+  margin-top: 1rem;
+}
+
+.soc-box p {
+  margin-bottom: 0.25rem;
+}
+
+.soc-box p {
+  font-weight: 600;
+}
+
+.soc-box p:first-child {
+  display: none;
+}
+
+.soc-box img {
+  width: 20px;
+  height: 20px;
+}
+
+.socials {
+  display: flex;
+  align-items: center;
+  padding: 0.25rem 0;
+}
+
+.socials a:not(:last-child) {
+  margin-right: 0.5rem;
+}
+
+.cop {
+  text-align: center;
+  padding: 1rem 0;
+  color: #fff;
+  background: #0066cc;
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+
+@media screen and (min-width: 650px) {
+  header {
+    padding: 0;
+    padding-left: 8.5rem;
+  }
+
+  header img {
+    height: 100%;
+  }
+
+  .container > div > img {
+    padding: 0;
+  }
+
+  .content-box {
+    padding: 1.75rem 8.5rem;
+  }
+
+  .dear,
+  .num,
+  .conbox a {
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+
+  .thanks,
+  .ref,
+  .text {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+  }
+
+  .ftop {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2.25rem;
+    padding-right: 2.25rem;
+    text-align: right;
+  }
+
+  .conbox img {
+    width: 24px;
+    height: 24px;
+    margin-right: 0.625rem;
+  }
+
+  .soc-box {
+    margin-top: 0;
+  }
+
+  .soc-box p:first-child {
+    display: block;
+  }
+
+  .socials {
+    justify-content: flex-end;
+  }
+}

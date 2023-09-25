@@ -1,0 +1,10 @@
+C:\c#_learn_lnu\Hotel\obj\Debug\Hotel.csprojAssemblyReference.cache
+C:\c#_learn_lnu\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\c#_learn_lnu\Hotel\bin\Debug\Hotel.exe.config
+C:\c#_learn_lnu\Hotel\bin\Debug\Hotel.exe
+C:\c#_learn_lnu\Hotel\bin\Debug\Hotel.pdb
+C:\c#_learn_lnu\Hotel\bin\Debug\Newtonsoft.Json.dll
+C:\c#_learn_lnu\Hotel\bin\Debug\Newtonsoft.Json.xml
+C:\c#_learn_lnu\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+C:\c#_learn_lnu\Hotel\obj\Debug\Hotel.exe
+C:\c#_learn_lnu\Hotel\obj\Debug\Hotel.pdb

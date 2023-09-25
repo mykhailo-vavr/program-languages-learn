@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  background: #0c0874;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hover-board {
+  border-spacing: 3px;
+}
+
+.hover-board-cell {
+  padding: 9px;
+  background: #333086;
+  box-shadow: 0 0 2px #000;
+  transition: 1.5s ease;
+}
+
+.hover-board-cell:hover {
+  transition-duration: 0s;
+}

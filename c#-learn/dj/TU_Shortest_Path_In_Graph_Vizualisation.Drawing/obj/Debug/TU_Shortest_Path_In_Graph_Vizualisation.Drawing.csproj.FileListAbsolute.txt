@@ -1,0 +1,17 @@
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_Vizualisation.Drawing\bin\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Drawing.dll
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_Vizualisation.Drawing\bin\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Drawing.pdb
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_Vizualisation.Drawing\bin\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Models.dll
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_Vizualisation.Drawing\bin\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Models.pdb
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_Vizualisation.Drawing\obj\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Drawing.csproj.CoreCompileInputs.cache
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_Vizualisation.Drawing\obj\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Drawing.csproj.CopyComplete
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_Vizualisation.Drawing\obj\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Drawing.dll
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_Vizualisation.Drawing\obj\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Drawing.pdb
+C:\c#_learn_lnu\dj\TU_Shortest_Path_In_Graph_Vizualisation.Drawing\bin\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Drawing.dll
+C:\c#_learn_lnu\dj\TU_Shortest_Path_In_Graph_Vizualisation.Drawing\bin\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Drawing.pdb
+C:\c#_learn_lnu\dj\TU_Shortest_Path_In_Graph_Vizualisation.Drawing\bin\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Models.dll
+C:\c#_learn_lnu\dj\TU_Shortest_Path_In_Graph_Vizualisation.Drawing\bin\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Models.pdb
+C:\c#_learn_lnu\dj\TU_Shortest_Path_In_Graph_Vizualisation.Drawing\obj\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Drawing.csproj.AssemblyReference.cache
+C:\c#_learn_lnu\dj\TU_Shortest_Path_In_Graph_Vizualisation.Drawing\obj\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Drawing.csproj.CoreCompileInputs.cache
+C:\c#_learn_lnu\dj\TU_Shortest_Path_In_Graph_Vizualisation.Drawing\obj\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Drawing.csproj.CopyComplete
+C:\c#_learn_lnu\dj\TU_Shortest_Path_In_Graph_Vizualisation.Drawing\obj\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Drawing.dll
+C:\c#_learn_lnu\dj\TU_Shortest_Path_In_Graph_Vizualisation.Drawing\obj\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Drawing.pdb

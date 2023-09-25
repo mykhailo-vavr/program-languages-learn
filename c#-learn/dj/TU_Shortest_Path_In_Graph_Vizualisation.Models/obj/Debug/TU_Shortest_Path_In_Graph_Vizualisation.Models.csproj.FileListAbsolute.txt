@@ -1,0 +1,12 @@
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_Vizualisation.Models\bin\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Models.dll
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_Vizualisation.Models\bin\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Models.pdb
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_Vizualisation.Models\obj\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Models.csproj.AssemblyReference.cache
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_Vizualisation.Models\obj\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Models.csproj.CoreCompileInputs.cache
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_Vizualisation.Models\obj\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Models.dll
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_Vizualisation.Models\obj\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Models.pdb
+C:\c#_learn_lnu\dj\TU_Shortest_Path_In_Graph_Vizualisation.Models\bin\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Models.dll
+C:\c#_learn_lnu\dj\TU_Shortest_Path_In_Graph_Vizualisation.Models\bin\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Models.pdb
+C:\c#_learn_lnu\dj\TU_Shortest_Path_In_Graph_Vizualisation.Models\obj\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Models.csproj.AssemblyReference.cache
+C:\c#_learn_lnu\dj\TU_Shortest_Path_In_Graph_Vizualisation.Models\obj\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Models.csproj.CoreCompileInputs.cache
+C:\c#_learn_lnu\dj\TU_Shortest_Path_In_Graph_Vizualisation.Models\obj\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Models.dll
+C:\c#_learn_lnu\dj\TU_Shortest_Path_In_Graph_Vizualisation.Models\obj\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Models.pdb

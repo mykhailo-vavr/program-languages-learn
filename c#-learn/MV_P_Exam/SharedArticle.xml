@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SharedArticles>
+	<SharedArticle>
+		<ArticleId>11</ArticleId>
+		<Count>1</Count>
+	</SharedArticle>
+	<SharedArticle>
+		<ArticleId>22</ArticleId>
+		<Count>2</Count>
+	</SharedArticle>
+	<SharedArticle>
+		<ArticleId>33</ArticleId>
+		<Count>3</Count>
+	</SharedArticle>
+	<SharedArticle>
+		<ArticleId>44</ArticleId>
+		<Count>4</Count>
+	</SharedArticle>
+	<SharedArticle>
+		<ArticleId>333</ArticleId>
+		<Count>33</Count>
+	</SharedArticle>
+	<SharedArticle>
+		<ArticleId>444</ArticleId>
+		<Count>44</Count>
+	</SharedArticle>
+	<SharedArticle>
+		<ArticleId>444</ArticleId>
+		<Count>100</Count>
+	</SharedArticle>
+</SharedArticles>

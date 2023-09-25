@@ -1,0 +1,7 @@
+C:\c#_learn_lnu\inheritance\bin\Debug\inheritance.exe.config
+C:\c#_learn_lnu\inheritance\bin\Debug\inheritance.exe
+C:\c#_learn_lnu\inheritance\bin\Debug\inheritance.pdb
+C:\c#_learn_lnu\inheritance\obj\Debug\inheritance.csprojAssemblyReference.cache
+C:\c#_learn_lnu\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+C:\c#_learn_lnu\inheritance\obj\Debug\inheritance.exe
+C:\c#_learn_lnu\inheritance\obj\Debug\inheritance.pdb

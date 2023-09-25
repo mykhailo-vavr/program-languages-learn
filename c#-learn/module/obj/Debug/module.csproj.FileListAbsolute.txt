@@ -1,0 +1,7 @@
+C:\c#_learn_lnu\module\bin\Debug\module.exe.config
+C:\c#_learn_lnu\module\bin\Debug\module.exe
+C:\c#_learn_lnu\module\bin\Debug\module.pdb
+C:\c#_learn_lnu\module\obj\Debug\module.csprojAssemblyReference.cache
+C:\c#_learn_lnu\module\obj\Debug\module.csproj.CoreCompileInputs.cache
+C:\c#_learn_lnu\module\obj\Debug\module.exe
+C:\c#_learn_lnu\module\obj\Debug\module.pdb

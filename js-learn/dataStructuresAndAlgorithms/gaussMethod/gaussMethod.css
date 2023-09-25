@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.container {
+  width: 720px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+.list-label {
+  margin-right: 5px;
+}
+
+.equations-system {
+  margin: 20px 0;
+  font-size: 1.2em;
+  position: relative;
+  /* background: left / contain no-repeat
+    url('https://www.pngmart.com/files/8/Brackets-Transparent-Images-PNG.png'); */
+}
+
+.equations-system-row {
+  margin: 0 0 5px 0;
+  display: flex;
+  align-items: center;
+}
+
+input[type='number'] {
+  margin: 0 3px;
+  width: 20px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.btn {
+  padding: 5px 12px;
+  border-radius: 2px;
+  border: 0.5px solid #cad3c8;
+  background: #fff;
+  color: #212221;
+  font-size: 0.9em;
+  cursor: pointer;
+}
+
+.btn:active {
+  box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2) inset;
+  border-color: rgba(34, 60, 80, 0.4);
+  color: #424442;
+}
+
+.text-area {
+  margin-top: 15px;
+}
+
+.solutions-step {
+  margin-bottom: 25px;
+}
+
+.solutions-step span {
+  display: inline-block;
+  text-align: center;
+  margin-right: 30px;
+  width: 20px;
+}
+
+.solutions span {
+  margin: 0 3px;
+}

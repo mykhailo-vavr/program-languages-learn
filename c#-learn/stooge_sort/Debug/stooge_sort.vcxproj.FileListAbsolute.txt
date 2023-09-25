@@ -1,0 +1,2 @@
+C:\c#_learn_lnu\stooge_sort\Debug\stooge_sort.exe
+C:\c#_learn_lnu\stooge_sort\Debug\stooge_sort.pdb

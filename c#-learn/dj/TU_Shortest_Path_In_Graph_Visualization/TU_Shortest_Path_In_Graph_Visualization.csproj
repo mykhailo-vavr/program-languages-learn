@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4CAAF1F7-016B-46AB-8F95-F7C136354EFA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TU_Shortest_Path_In_Graph_Visualization</RootNamespace>
+    <AssemblyName>TU_Shortest_Path_In_Graph_Visualization</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BFSAlgorithm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BFSAlgorithm.Designer.cs">
+      <DependentUpon>BFSAlgorithm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GraphCreator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GraphCreator.Designer.cs">
+      <DependentUpon>GraphCreator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BFSAlgorithm.resx">
+      <DependentUpon>BFSAlgorithm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GraphCreator.resx">
+      <DependentUpon>GraphCreator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\DataSources\GraphCreator.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TU_Shortest_Path_In_Graph_BFS\TU_Shortest_Path_In_Graph_BFS.csproj">
+      <Project>{c46813b2-032a-463d-b376-cea303e98470}</Project>
+      <Name>TU_Shortest_Path_In_Graph_BFS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TU_Shortest_Path_In_Graph_Visualization.IO\TU_Shortest_Path_In_Graph_Visualization.IO.csproj">
+      <Project>{099FC4F4-A106-4D24-920C-38B4912B9E93}</Project>
+      <Name>TU_Shortest_Path_In_Graph_Visualization.IO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TU_Shortest_Path_In_Graph_Vizualisation.Drawing\TU_Shortest_Path_In_Graph_Vizualisation.Drawing.csproj">
+      <Project>{0C055298-7C8B-43DB-B0BF-E3173B04FD8A}</Project>
+      <Name>TU_Shortest_Path_In_Graph_Vizualisation.Drawing</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TU_Shortest_Path_In_Graph_Vizualisation.Models\TU_Shortest_Path_In_Graph_Vizualisation.Models.csproj">
+      <Project>{109AD29E-B46C-4AED-88D3-76C430F11D4F}</Project>
+      <Name>TU_Shortest_Path_In_Graph_Vizualisation.Models</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

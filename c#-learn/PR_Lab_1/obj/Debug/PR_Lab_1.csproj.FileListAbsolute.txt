@@ -1,0 +1,10 @@
+C:\c#_learn_lnu\PR_Lab_1\bin\Debug\PR_Lab_1.exe.config
+C:\c#_learn_lnu\PR_Lab_1\bin\Debug\PR_Lab_1.exe
+C:\c#_learn_lnu\PR_Lab_1\bin\Debug\PR_Lab_1.pdb
+C:\c#_learn_lnu\PR_Lab_1\obj\Debug\PR_Lab_1.Properties.Resources.resources
+C:\c#_learn_lnu\PR_Lab_1\obj\Debug\PR_Lab_1.csproj.GenerateResource.cache
+C:\c#_learn_lnu\PR_Lab_1\obj\Debug\PR_Lab_1.csproj.CoreCompileInputs.cache
+C:\c#_learn_lnu\PR_Lab_1\obj\Debug\PR_Lab_1.exe
+C:\c#_learn_lnu\PR_Lab_1\obj\Debug\PR_Lab_1.pdb
+C:\c#_learn_lnu\PR_Lab_1\obj\Debug\PR_Lab_1.Form1.resources
+C:\c#_learn_lnu\PR_Lab_1\obj\Debug\PR_Lab_1.csproj.AssemblyReference.cache

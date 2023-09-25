@@ -1,0 +1,9 @@
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_BFS\bin\Debug\TU_Shortest_Path_In_Graph_BFS.dll
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_BFS\bin\Debug\TU_Shortest_Path_In_Graph_BFS.pdb
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_BFS\bin\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Models.dll
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_BFS\bin\Debug\TU_Shortest_Path_In_Graph_Vizualisation.Models.pdb
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_BFS\obj\Debug\TU_Shortest_Path_In_Graph_BFS.csproj.CoreCompileInputs.cache
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_BFS\obj\Debug\TU_Shortest_Path_In_Graph_BFS.csproj.CopyComplete
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_BFS\obj\Debug\TU_Shortest_Path_In_Graph_BFS.dll
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_BFS\obj\Debug\TU_Shortest_Path_In_Graph_BFS.pdb
+E:\vladyslav\c#\c#\Parallel\Lab6TaskForm\TU_Shortest_Path_In_Graph_Visualization-master\TU_Shortest_Path_In_Graph_BFS\obj\Debug\TU_Shortest_Path_In_Graph_BFS.csproj.AssemblyReference.cache

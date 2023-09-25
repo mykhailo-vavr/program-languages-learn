@@ -1,0 +1,33 @@
+.item {
+  width: 250px;
+  height: 100%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  background: no-repeat
+    url('https://image.posterlounge.com/images/big/1869771.jpg')
+    center center / contain;
+
+  &:hover .description {
+    opacity: 1;
+    margin-bottom: 0;
+  }
+}
+
+.description {
+  color: #fff;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.4);
+  transition: 0.3s;
+  margin-bottom: -30px;
+  opacity: 0;
+}

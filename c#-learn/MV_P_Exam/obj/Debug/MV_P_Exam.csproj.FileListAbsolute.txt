@@ -1,0 +1,7 @@
+C:\c#_learn_lnu\MV_P_Exam\bin\Debug\MV_P_Exam.exe.config
+C:\c#_learn_lnu\MV_P_Exam\bin\Debug\MV_P_Exam.exe
+C:\c#_learn_lnu\MV_P_Exam\bin\Debug\MV_P_Exam.pdb
+C:\c#_learn_lnu\MV_P_Exam\obj\Debug\MV_P_Exam.csprojAssemblyReference.cache
+C:\c#_learn_lnu\MV_P_Exam\obj\Debug\MV_P_Exam.csproj.CoreCompileInputs.cache
+C:\c#_learn_lnu\MV_P_Exam\obj\Debug\MV_P_Exam.exe
+C:\c#_learn_lnu\MV_P_Exam\obj\Debug\MV_P_Exam.pdb

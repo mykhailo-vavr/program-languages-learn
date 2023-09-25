@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url('./bg.jpg') center center / cover no-repeat;
+  /* background: #060406; */
+}
+
+.field {
+  /* border: 1px solid white; */
+  border-spacing: 0;
+}
+
+/* .field td {
+  border: 0.3px solid #ccc;
+} */
+
+.painted-cell {
+  background: #1ad12a;
+}

@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  background: #fbc531;
+  position: relative;
+}
+
+.dot {
+  background: #7f8fa6;
+  width: 2px;
+  height: 2px;
+  border-radius: 50%;
+  position: absolute;
+}

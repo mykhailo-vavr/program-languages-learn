@@ -1,0 +1,13 @@
+.button {
+  padding: 10px;
+  border: 1.5px solid #61dafb;
+  color: #61dafb;
+  background: transparent;
+  cursor: pointer;
+  transition: 0.1s;
+
+  &:active {
+    color: #20232a;
+    background: #61dafb;
+  }
+}

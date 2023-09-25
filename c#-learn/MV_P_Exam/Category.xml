@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Categories>
+	<Category id="1">
+		<Name>TV</Name>
+		<Discount>5</Discount>
+	</Category>
+	<Category id="2">
+		<Name>Tablet</Name>
+		<Discount>2</Discount>
+	</Category>
+	<Category id="3">
+		<Name>Smartphone</Name>
+		<Discount>3</Discount>
+	</Category>
+	<Category id="4">
+		<Name>Screen</Name>
+		<Discount>2</Discount>
+	</Category>
+</Categories>

@@ -1,0 +1,7 @@
+C:\c#_learn_lnu\interface-I(Comparable_IClonable_etc)\bin\Debug\interface-I(Comparable_IClonable_etc).exe.config
+C:\c#_learn_lnu\interface-I(Comparable_IClonable_etc)\bin\Debug\interface-I(Comparable_IClonable_etc).exe
+C:\c#_learn_lnu\interface-I(Comparable_IClonable_etc)\bin\Debug\interface-I(Comparable_IClonable_etc).pdb
+C:\c#_learn_lnu\interface-I(Comparable_IClonable_etc)\obj\Debug\interface-I(Comparable_IClonable_etc).csprojAssemblyReference.cache
+C:\c#_learn_lnu\interface-I(Comparable_IClonable_etc)\obj\Debug\interface-I(Comparable_IClonable_etc).csproj.CoreCompileInputs.cache
+C:\c#_learn_lnu\interface-I(Comparable_IClonable_etc)\obj\Debug\interface-I(Comparable_IClonable_etc).exe
+C:\c#_learn_lnu\interface-I(Comparable_IClonable_etc)\obj\Debug\interface-I(Comparable_IClonable_etc).pdb

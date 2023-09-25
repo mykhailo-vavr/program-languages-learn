@@ -1,0 +1,7 @@
+C:\c#_learn_lnu\templates\bin\Debug\templates.exe.config
+C:\c#_learn_lnu\templates\bin\Debug\templates.exe
+C:\c#_learn_lnu\templates\bin\Debug\templates.pdb
+C:\c#_learn_lnu\templates\obj\Debug\templates.csprojAssemblyReference.cache
+C:\c#_learn_lnu\templates\obj\Debug\templates.csproj.CoreCompileInputs.cache
+C:\c#_learn_lnu\templates\obj\Debug\templates.exe
+C:\c#_learn_lnu\templates\obj\Debug\templates.pdb
